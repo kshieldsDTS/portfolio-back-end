@@ -1,0 +1,1 @@
+web: gunicorn portfolio_back_end_django.wsgi
